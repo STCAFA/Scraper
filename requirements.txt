@@ -1,3 +1,7 @@
 fastapi
 uvicorn
 playwright
+requests
+beautifulsoup4fastapi
+uvicorn
+playwright
